@@ -1,0 +1,13 @@
+
+3, 777, 0, 5.00, Btr Air, It freshens the air, Pink
+
+6, 778, 8, 7.00, Unknown Stock Name, , 
+
+6, 555, 50, 30.00, Extinguisher, Mobile fire extinguisher, 
+
+1, 222, 1, 7.77, Unknown Stock Name, 
+
+1, MSHS565, 6, 7.99, Jumper Cables, 
+
+4, 999, 40, 50.00, Tyre, High endurance tyre, x43
+4, 111, 7, 7.00, Foglights, they light up, 

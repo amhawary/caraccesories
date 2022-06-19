@@ -1,0 +1,1 @@
+ + self.getDesc() + self.__quantity + self.__price + self.getVAT())
